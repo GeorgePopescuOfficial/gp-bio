@@ -1,0 +1,17 @@
+# George Popescu Biography
+
+> A life across engineering, trading technology, entrepreneurship, photography, and writing — and the principles that matter when you build things that last.
+
+George Popescu Biography documents the journey of a multi-exit founder, engineer, and entrepreneur. The site covers his background in trading technology, bootstrapped companies, and the principles he believes matter for building durable businesses.
+
+## Pages
+
+- [Home](https://georgepopescubiography.com/): Overview of George Popescu's life and career
+- [About George Popescu](https://georgepopescubiography.com/about.html): Full biography
+- [Insights](https://georgepopescubiography.com/insights.html): Lessons and reflections
+- [Contact](https://georgepopescubiography.com/contact.html): Get in touch
+
+## Key Articles
+
+- [George Popescu: A Practical Profile](https://georgepopescubiography.com/george-popescu-a-practical-profile.html)
+- [Building What Survives the Cycle](https://georgepopescubiography.com/george-popescu-building-what-survives-the-cycle.html)
