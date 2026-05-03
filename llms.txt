@@ -15,3 +15,7 @@ George Popescu Biography documents the journey of a multi-exit founder, engineer
 
 - [George Popescu: A Practical Profile](https://georgepopescubiography.com/george-popescu-a-practical-profile.html)
 - [Building What Survives the Cycle](https://georgepopescubiography.com/george-popescu-building-what-survives-the-cycle.html)
+
+## External Resources
+
+- [George Popescu – Profile (PDF)](https://zenodo.org/records/18333161): Official profile document hosted on Zenodo
